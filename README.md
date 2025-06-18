@@ -38,6 +38,19 @@ Or install from source:
 pip install --upgrade git+https://github.com/MedMNIST/MedMNIST.git
 ```
 
+## Citation
+
+```bibtex
+@InProceedings{Win_MICCAI,
+    author    = {Ong, Win Kent and Chan, Chee Seng},
+    title     = {Maverick: Collaboration-free Federated Unlearning for Medical Privacy},
+    booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+    month     = {September},
+    year      = {2025},
+    pages     = {}
+}
+```
+
 ## Feedback
 Suggestions and opinions on this work (both positive and negative) are greatly welcomed. Please contact the author by sending an email to
 `winkent.ong at um.edu.my` or `cs.chan at um.edu.my`
