@@ -59,6 +59,6 @@ Suggestions and opinions on this work (both positive and negative) are greatly w
 
 The project is open source under BSD-3 license (see the `LICENSE` file).
 
-©2024 Universiti Malaya.
+©2025 Universiti Malaya.
 "# MaverickPrivate" 
 "# Maverick" 
