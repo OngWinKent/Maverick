@@ -2,7 +2,7 @@
 
 ### Maverick: Collaboration-free Federated Unlearning for Medical Privacy
 
-### MICCAI 2025
+### MICCAI 2025 (Oral Presentation)
 
 #### (Released on June 18, 2025)
 
@@ -41,7 +41,7 @@ pip install --upgrade git+https://github.com/MedMNIST/MedMNIST.git
 ## Citation
 
 ```bibtex
-@InProceedings{Win_MICCAI,
+@InProceedings{Ong_MICCAI,
     author    = {Ong, Win Kent and Chan, Chee Seng},
     title     = {Maverick: Collaboration-free Federated Unlearning for Medical Privacy},
     booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
