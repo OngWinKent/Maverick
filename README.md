@@ -15,6 +15,11 @@ Federated Learning (FL) enables decentralized training while preserving data pri
 
 We introduce Maverick, a novel FU framework that performs unlearning locally at the target client, eliminating the need for other clients’ involvement. Leveraging Lipschitz continuity, Maverick reduces model sensitivity to unlearned data, ensuring privacy, lowering computational costs, and preserving performance. 
 
+<p align="center">
+  <img src="supplementary/model_sensitivity_optimization.gif" alt="Model Sensitivity" width="1000%" />
+</p>
+<p align="center">Figure 2: Model sensitivity optimization visualization.</p>
+
 ## Getting started
 
 ### Environment Preparation
