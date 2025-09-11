@@ -46,13 +46,15 @@ pip install --upgrade git+https://github.com/MedMNIST/MedMNIST.git
 ## Citation
 
 ```bibtex
-@InProceedings{Ong_MICCAI,
-    author    = {Ong, Win Kent and Chan, Chee Seng},
-    title     = {Maverick: Collaboration-free Federated Unlearning for Medical Privacy},
-    booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
-    month     = {September},
-    year      = {2025},
-    pages     = {}
+@InProceedings{Ong_Maverick_MICCAI2025,
+        author = { Ong, Win Kent and Chan, Chee Seng},
+        title = { { Maverick: Collaboration-free Federated Unlearning for Medical Privacy } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15973},
+        month = {September},
+        page = {367 -- 377}
 }
 ```
 
