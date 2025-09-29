@@ -4,6 +4,8 @@
 
 ### MICCAI 2025 (Oral Presentation)
 
+[[PDF](http://cs-chan.com/doc/MICCAI2025.pdf)]  [[POSTER](http://cs-chan.com/doc/MICCAI2025p.pdf)]
+
 #### (Released on June 18, 2025)
 
 ## Introduction
