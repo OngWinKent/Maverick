@@ -1,4 +1,4 @@
-# Maverick
+# Federated Unlearning for Medical Privacy
 
 ### Maverick: Collaboration-free Federated Unlearning for Medical Privacy
 
@@ -69,5 +69,3 @@ Suggestions and opinions on this work (both positive and negative) are greatly w
 The project is open source under BSD-3 license (see the `LICENSE` file).
 
 ©2025 Universiti Malaya.
-"# MaverickPrivate" 
-"# Maverick" 
